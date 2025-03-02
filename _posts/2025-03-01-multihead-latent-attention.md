@@ -16,3 +16,6 @@ E = mc^2
 $$
 
 Check out [GitHub](https://github.com/)!
+
+
+![Post Image]({{ site.baseurl }}/assets/img/posts/2025-03-01-multihead-latent-attention/attention-comparison.png)
